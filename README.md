@@ -50,4 +50,4 @@ What is used to rate the severities? The answer to this is mostly OWASP.<br/>
 <img src="https://github.com/0xfps/audits/blob/dev/OWASP.PNG" width="1000px" height="500px" alt="OWASP Severity Rating"/>
 
 ### What To Look For In Audits?
-[Read Here.](https://github.com/0xfps/audit-requirements/edit/dev/README.md)
+[Read about that here.](https://github.com/0xfps/audit-requirements/edit/dev/README.md)
