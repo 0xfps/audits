@@ -13,7 +13,7 @@ How many findings were made?<br/>
 How many were critical risk?<br/>
 How many were high risk?<br/>
 How many were medium risk?<br/>
-How many were low risk?<br/>
+How many were low risk and non-critical?<br/>
 How many were gas optimization?<br/>
 How many were informational?<br/>
 
