@@ -38,7 +38,7 @@ What is used to rate the severities? The answer to this is mostly OWASP.<br/>
 [M-01] - [M-nn]<br/>
 
 #### Low Risk and Non-Critical Findings (n)
-[L-01] - [L-nn]
+[L-01] - [L-nn]<br/>
 [N-01] - [N-nn]
 
 #### Gas Optimizations (n)
