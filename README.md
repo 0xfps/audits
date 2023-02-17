@@ -2,16 +2,38 @@
 ## Audit Report Contents
 
 #### Overview
+How many firms made the audit?<br/>
+Which firm made the audit?<br/>
+How many people made the findings?<br/>
+Who made the findings?<br/>
+
 #### Summary
+How many findings were made?<br/>
+How many were critical risk?<br/>
+How many were high risk?<br/>
+How many were medium risk?<br/>
+How many were low risk?<br/>
+
 #### Scope
+How many organizations were audited?<br/>
+How many interfaces were audited?<br/>
+How many libraries were audited?<br/>
+How many smart contracts were audited?<br/>
+
 #### Severity Criteria
-#### High Risk Findings
-##### H-01 - H-nn
-#### Medium Risk Findings
-##### M-01 - M-nn
-#### Low Risk Findings
-##### L-01 - L-nn
-#### Gas Optimizations
-##### G-01 - G-nn
-#### No Risk Findings
-##### N-01 - N-nn
+What is used to rate the severities? The answer to this is mostly OWASP.<br/>
+
+#### High Risk Findings (n)
+[H-01] - [H-nn]<br/>
+###### Example.
+**[H-01] BORROWERS MAY EARN AUCTION PROCEEDS WITHOUT FILLING THE DEBT SHORTFALL.**
+
+#### Medium Risk Findings (n)
+[M-01] - [M-nn]<br/>
+
+#### Low Risk and Non-Critical Findings (n)
+[L-01] - [L-nn]
+[N-01] - [N-nn]
+
+#### Gas Optimizations (n)
+[G-01] - [G-nn]
