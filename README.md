@@ -13,7 +13,7 @@ How many findings were made?<br/>
 How many were critical risk?<br/>
 How many were high risk?<br/>
 How many were medium risk?<br/>
-How many were low risk?<br/>
+How many were low/non-critical risk?<br/>
 
 #### Scope
 How many organizations were audited?<br/>
@@ -23,6 +23,9 @@ How many smart contracts were audited?<br/>
 
 #### Severity Criteria
 What is used to rate the severities? The answer to this is mostly OWASP.<br/>
+
+#### Critical Risk Findings (n)
+[C-01] - [C-nn]<br/>
 
 #### High Risk Findings (n)
 [H-01] - [H-nn]<br/>
