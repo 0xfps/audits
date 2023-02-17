@@ -13,7 +13,9 @@ How many findings were made?<br/>
 How many were critical risk?<br/>
 How many were high risk?<br/>
 How many were medium risk?<br/>
-How many were low/non-critical risk?<br/>
+How many were low risk?<br/>
+How many were gas optimization?<br/>
+How many were informational?<br/>
 
 #### Scope
 How many organizations were audited?<br/>
@@ -42,7 +44,10 @@ What is used to rate the severities? The answer to this is mostly OWASP.<br/>
 #### Gas Optimizations (n)
 [G-01] - [G-nn]
 
-<br>
+#### Informational (n)
+[I-01] - [I-nn]
+
+<br/>
 
 ## How To Determine Likelihood and Impact
 
