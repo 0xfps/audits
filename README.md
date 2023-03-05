@@ -59,3 +59,5 @@ What is used to rate the severities? The answer to this is mostly OWASP.<br/>
 
 ### What To Look For In Audits?
 [Read about that here.](https://github.com/0xfps/audit-requirements/edit/dev/README.md)
+
+https://twitter.com/0xOwenThurm/status/1632058341815099392
