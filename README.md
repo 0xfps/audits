@@ -52,10 +52,10 @@ What is used to rate the severities? The answer to this is mostly OWASP.<br/>
 ## How To Determine Likelihood and Impact
 
 ### Likelihood and Impact
-<img src="https://github.com/0xfps/audits/blob/dev/Likelihood%20and%20Impact.PNG" width="1000px" height="500px" alt="Likelihood and Impact"/>
+<img src="https://github.com/0xfps/audits/blob/dev/Likelihood%20and%20Impact.PNG" width="1000px" height="400px" alt="Likelihood and Impact"/>
 
 ### OWASP Severity Rating
-<img src="https://github.com/0xfps/audits/blob/dev/OWASP.PNG" width="1000px" height="500px" alt="OWASP Severity Rating"/>
+<img src="https://github.com/0xfps/audits/blob/dev/OWASP.PNG" width="1000px" height="400px" alt="OWASP Severity Rating"/>
 
 ### What To Look For In Audits?
 [Read about that here.](https://github.com/0xfps/audit-requirements/edit/dev/README.md)
